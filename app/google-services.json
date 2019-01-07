@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "822658448122",
+    "firebase_url": "https://tesads-8a81e.firebaseio.com",
+    "project_id": "tesads-8a81e",
+    "storage_bucket": "tesads-8a81e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822658448122:android:30f96c9f3dda6c29",
+        "android_client_info": {
+          "package_name": "com.onlinelearningcenter.googlelogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822658448122-ok9pesbpnnh8l8qvsnpajskdeui85rgi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFNtfxVVY7jditCKm0q6Un7nbK6A_9XdI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
